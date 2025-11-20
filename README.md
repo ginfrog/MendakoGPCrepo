@@ -1,4 +1,2 @@
 #MendakoGPCproject!!
-日本語で話させてもらいます。
-英語がわからないので。
-とりあえず、これはproject配布するためのものだということは知っています。
+this text rainbow
